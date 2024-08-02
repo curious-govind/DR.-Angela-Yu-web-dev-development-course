@@ -1,0 +1,14 @@
+Sure! Here are the key takeaways from the 12 rules to learn to code:
+
+1. Trick Your Brain with the 20-Minute Rule: Start with just 20 minutes of coding to overcome inertia and build a habit
+2. Code for a Purpose: Work on projects that interest you to stay motivated.
+3. No “Perfect” Language: Choose a language based on your goals, as core concepts are similar across languages.
+4. Understand What You’re Writing: Avoid tutorials that skip explanations; ensure you understand each line of code
+5. It’s Ok to Not Know: Embrace not knowing everything and use resources like StackOverflow.
+6. Be a Copycat: Start by replicating existing projects to learn.
+7. Be Accountable: Find a buddy or community to stay committed.
+8. Keep Learning: Continuously update your skills to stay relevant
+9. Play Foosball: Take breaks to solve problems more effectively.
+10. Get a Mentor: Learn from experienced programmers through pair programming.
+11. Chunking: Break down complex problems into manageable parts.
+12. Break Someone Else’s Code: Understand code by dissecting and modifying it.
