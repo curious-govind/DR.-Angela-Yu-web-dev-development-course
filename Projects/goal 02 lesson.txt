@@ -1,0 +1,8 @@
+under this goal 02 i use br tag to seprate the paragraph.
+that's not a  good practice.
+To seprate paragraph use new paragraph tag it will start with new line
+like:-
+
+
+        <p>paragraph 1</p>
+        <p>paragraph 2</p>
